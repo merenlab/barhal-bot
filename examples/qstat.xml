@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+<job_info  xmlns:xsd="http://arc.liv.ac.uk/repos/darcs/sge/source/dist/util/resources/schemas/qstat/qstat.xsd">
+  <queue_info>
+    <job_list state="running">
+      <JB_job_number>1169011</JB_job_number>
+      <JAT_prio>0.60500</JAT_prio>
+      <JB_name>mprof</JB_name>
+      <JB_owner>oesen</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-06T15:40:53</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>8</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1169682</JB_job_number>
+      <JAT_prio>0.50500</JAT_prio>
+      <JB_name>snakejob.anvi_get_sequences_for_hmm_hits.3.sh</JB_name>
+      <JB_owner>ashaiber</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-08T23:37:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1169683</JB_job_number>
+      <JAT_prio>0.50500</JAT_prio>
+      <JB_name>snakejob.anvi_get_sequences_for_hmm_hits.3.sh</JB_name>
+      <JB_owner>ashaiber</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-08T23:37:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1169684</JB_job_number>
+      <JAT_prio>0.50500</JAT_prio>
+      <JB_name>snakejob.anvi_split.3.sh</JB_name>
+      <JB_owner>ashaiber</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-08T23:44:53</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172015</JB_job_number>
+      <JAT_prio>0.60500</JAT_prio>
+      <JB_name>idba_ud</JB_name>
+      <JB_owner>efogarty</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T21:33:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>8</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172573</JB_job_number>
+      <JAT_prio>0.54786</JAT_prio>
+      <JB_name>snakejob.anvi_run_ncbi_cogs.8160.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:54:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172576</JB_job_number>
+      <JAT_prio>0.54786</JAT_prio>
+      <JB_name>snakejob.anvi_run_ncbi_cogs.28960.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:54:38</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172577</JB_job_number>
+      <JAT_prio>0.54786</JAT_prio>
+      <JB_name>snakejob.anvi_run_ncbi_cogs.11355.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:54:53</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172581</JB_job_number>
+      <JAT_prio>0.50500</JAT_prio>
+      <JB_name>snakejob.anvi_gen_contigs_database.8621.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:56:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172583</JB_job_number>
+      <JAT_prio>0.54786</JAT_prio>
+      <JB_name>snakejob.anvi_run_ncbi_cogs.31563.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:56:38</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>4</slots>
+    </job_list>
+    <job_list state="running">
+      <JB_job_number>1172585</JB_job_number>
+      <JAT_prio>0.50500</JAT_prio>
+      <JB_name>snakejob.anvi_script_reformat_fasta_prefix_only.40166.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>r</state>
+      <JAT_start_time>2018-12-09T23:57:23</JAT_start_time>
+      <queue_name>all.q@barhal-01.bpcservers.private</queue_name>
+      <slots>1</slots>
+    </job_list>
+  </queue_info>
+  <job_info>
+    <job_list state="pending">
+      <JB_job_number>1172586</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>snakejob.anvi_gen_contigs_database.14996.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2018-12-09T23:57:42</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+    <job_list state="pending">
+      <JB_job_number>1172587</JB_job_number>
+      <JAT_prio>0.00000</JAT_prio>
+      <JB_name>snakejob.anvi_script_reformat_fasta_prefix_only.45151.sh</JB_name>
+      <JB_owner>meren</JB_owner>
+      <state>qw</state>
+      <JB_submission_time>2018-12-09T23:57:51</JB_submission_time>
+      <queue_name></queue_name>
+      <slots>1</slots>
+    </job_list>
+  </job_info>
+</job_info>
